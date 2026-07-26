@@ -60,6 +60,9 @@ C19 = 22µF 400V (electro)
 
 <b>Diodes</b>
 <br />
+D1 - 1N4007 or another
+<br />
+D2, D3 - 3mm LED
 
 <b>Tubes</b>
 <br />
