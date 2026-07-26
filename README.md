@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/Tube-Preamp-Fenderman/main/photo/rev32.JPG" width="400">
 
-Fenderman this is a third version tube guitar preamplifier from the Spadnik Drive series. Its design is based on the classic Fender Showman amplifier.
+Fenderman this is a third version tube guitar preamplifier from the Spadnik Drive series. Its design is based on the classic Fender Showman amplifier. The device does not claim to be an exact emulator of the Fender Showman, but rather one of the options for imitating these amplifiers. The design is positioned as a preamplifier for studio recordings and connection to a speaker simulator or power amplifier.
 
 
 
