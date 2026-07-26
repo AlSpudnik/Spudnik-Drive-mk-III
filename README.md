@@ -45,7 +45,7 @@ C6 = 1nF 400V (film)
 <br />
 C8 = 4.7nF 400V (film)
 <br />
-C9 = 100nF 250V (film)
+C8 = 100nF 250V (film)
 <br />
 
 
