@@ -7,6 +7,8 @@ Fenderman this is a third version tube guitar preamplifier from the Spadnik Driv
 
 You can connect a guitar directly to the input of this preamplifier, as well as a processed signal - for example, a tube reverb with a classic 6G15 circuit, or its JFET clone. To add variety to overdriven amp, you can connect absolutely any booster, treble booster, overdrive pedals like the Tube Screamer, DOD 250, or even a fuzz box to the input. By manipulating the TREBLE, BASS, GAIN, PRESENCE knobs, you can achieve an endless variety of overdrive.
 
+Please note in the diagram, I did not use soviet 6N2P (6Н2П) tubs instead of vintage 7025 (used in 6G6-A) or 12AX7.
+
 
 
 
