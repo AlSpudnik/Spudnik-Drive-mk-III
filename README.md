@@ -21,7 +21,7 @@ Between stages, use high-quality film capacitors with a rated voltage of at leas
 
 As can be seen in the diagram, the lamp preheating is turned on immediately when the device is connected to the network, and the switch of the IEC320 AC-17 socket is connected as Standby.
 
-The power transformer must have a shielding layer between the mains winding and the anode winding. Or the heater winding—with a center tap connected to ground—should be wound between them.
+The power transformer must have a shielding layer between the mains winding and the anode winding. Or the filament winding—with a center tap connected to ground—should be wound between them.
 
 ### Parts List:
 <b>Resistors</b>
