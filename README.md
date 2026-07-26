@@ -29,10 +29,9 @@ The power transformer must have a shielding layer between the mains winding and 
 <br />
 
 
-
 <b>Capacitors</b>
 <br />
-C1= 22µF 22V (electro)
+C1, C7 = 22µF 22V (electro)
 <br />
 C2 = 270pF 400V (film or ceramic)
 <br />
@@ -42,10 +41,13 @@ C4 = 47nF 400V (film)
 <br />
 C5 = 2.2nF 400V (film)
 <br />
-C5 = 2.2nF 400V (film)
+C6 = 1nF 400V (film)
 <br />
-C1 = 200nF 63V (film or polarized electro)
+C8 = 4.7nF 400V (film)
 <br />
+C9 = 100nF 250V (film)
+<br />
+
 
 
 <b>Diodes</b>
@@ -63,7 +65,7 @@ IEC320 AC-17
 
 <b>Power Transformer</b>
 <br />
-6W minimal. Anode winding = 206v AC, 10mA. Filament winding = 6.6...6.8v AC, 0.8A.
+Power 6W minimal. Anode winding = 206v AC, 10mA. Filament winding = 6.6...6.8v AC, 0.8A.
 
 <b>Filter Choke</b>
 <br />
