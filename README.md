@@ -17,7 +17,7 @@ Since I assembled the physical design in the same case as the previous version (
 
 The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
 
-Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 680 volts).
+Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 680 volts). For C2, C3, C4, C9 I used Evox Rifa MMK Metal Film. 
 
 ### Parts List:
 <b>Resistors</b>
