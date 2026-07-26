@@ -16,7 +16,7 @@ Since I assembled the physical design in the same case as the previous version (
 
 The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
 
-Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 680 volts). For C2, C3, C4, C9 I used Evox Rifa MMK Metal Film. For C5, C6, C10 used soviet KSO (КСО). For С7, C8 soviet K73. For C1, C7 Nichicon 50V BP.
+Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 630 volts). For C2, C3, C4, C9 I used Evox Rifa MMK Metal Film. For C5, C6, C10 used soviet KSO (КСО). For С7, C8 soviet K73. For C1, C7 Nichicon 50V BP.
 
 As can be seen in the diagram, the lamp preheating is turned on immediately when the device is connected to the network, and the switch of the IEC320 AC-17 socket is connected as Standby.
 
@@ -34,7 +34,15 @@ The power transformer must have a shielding layer between the mains winding and 
 <br />
 C1= 22µF 22V (electro)
 <br />
-C2 = 270pF 400V (film)
+C2 = 270pF 400V (film or ceramic)
+<br />
+C3 = 100nF 400V (film)
+<br />
+C4 = 47nF 400V (film)
+<br />
+C5 = 2.2nF 400V (film)
+<br />
+C5 = 2.2nF 400V (film)
 <br />
 C1 = 200nF 63V (film or polarized electro)
 <br />
