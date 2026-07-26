@@ -1,5 +1,5 @@
 ### Spudnik Drive Mark III "Fenderman"
-[![Learn more](https://img.shields.io/badge/Learn_more-orange.svg )](https://mrspudnik.blogspot.com/2019/07/king-reverb.html)
+[![Learn more](https://img.shields.io/badge/Learn_more-orange.svg )](https://mrspudnik.blogspot.com/2020/09/spudnik-drive-mark-ii.html)
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/Tube-Preamp-Fenderman/main/photo/rev32.JPG" width="400">
 
@@ -13,7 +13,7 @@ If you plan to use the device as a preamplifier for a power amplifier and the am
 
 <b>Design and components:</b>
 <br />
-Since I assembled the physical design in the same case as the previous version (Spudnik Drive mk 2), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
+Since I assembled the physical design in the same case as the previous version (<a href="https://mrspudnik.blogspot.com/2020/09/spudnik-drive-mark-ii.html" target="_blank">Spudnik Drive mk II</a>), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
 
 The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
 
