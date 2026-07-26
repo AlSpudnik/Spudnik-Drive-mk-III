@@ -52,7 +52,7 @@ IEC320 AC-17
 
 <b>Power Transformer</b>
 <br />
-6W minimal. Secondary winding = 206v AC, 10mA. Filament winding = 6.6...6.8v AC, 0.8A.
+6W minimal. Anode winding = 206v AC, 10mA. Filament winding = 6.6...6.8v AC, 0.8A.
 
 <b>Filter Choke</b>
 <br />
