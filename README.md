@@ -33,9 +33,9 @@ The power transformer must have a shielding layer between the mains winding and 
 <br />
 C1, C7 = 22µF 22V (electro)
 <br />
-C2 = 270pF 400V (film or ceramic)
+C2, C11 = 270pF 400V (film or ceramic)
 <br />
-C3 = 100nF 400V (film)
+C3, C10 = 100nF 400V (film)
 <br />
 C4 = 47nF 400V (film)
 <br />
@@ -47,8 +47,16 @@ C8 = 4.7nF 400V (film)
 <br />
 C9 = 100nF 250V (film)
 <br />
-
-
+C12 = 1.5nF 1000VAC (film)
+<br />
+C13 = 47nF 400V (film)
+<br />
+C14, C16, C18 = 47µF 400V (electro)
+<br />
+C15, C17 = 33nF 400V (film)
+<br />
+C19 = 22µF 400V (electro)
+<br />
 
 <b>Diodes</b>
 <br />
