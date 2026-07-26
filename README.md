@@ -52,8 +52,8 @@ SPST or another high voltage toggle.
 
 <b>Transformer</b>
 <br />
-Power Transformer: 25W. Secondary winding = 235v AC, 42mA. Filament winding = 6.6v AC, 1.2A.
+Power Transformer: 25W. Secondary winding = 206v AC, 10mA. Filament winding = 6.6v AC, 0.8A.
 
 <b>Filter Choke</b>
 <br />
-Inductance = 0.17 Henry, 40mA.
+Inductance = 0.17 Henry, 10mA.
