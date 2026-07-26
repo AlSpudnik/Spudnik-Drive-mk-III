@@ -15,7 +15,7 @@ If you plan to use the device as a preamplifier for a power amplifier and the am
 <br />
 Since I assembled the physical design in the same case as the previous version (Spudnik Drive mk 2), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
 
-The main part of the applied МЛТ resistors is metal film. Carbon resistors of the BC series are used as R12, R17.
+The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
 
 ### Parts List:
 <b>Resistors</b>
