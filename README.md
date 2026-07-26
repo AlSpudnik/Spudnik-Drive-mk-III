@@ -5,6 +5,8 @@
 
 Fenderman this is a third version tube guitar preamplifier from the Spadnik Drive series. Its design is based on the classic Fender Showman amplifier. The device does not claim to be an exact emulator of the Fender Showman, but rather one of the options for imitating these amplifiers. The design is positioned as a preamplifier for studio recordings and connection to a speaker simulator or power amplifier.
 
+You can connect a guitar directly to the input of this preamplifier, as well as a processed signal - for example, a tube reverb with a classic 6G15 circuit, or its JFET clone. To add variety to your overdriven amp, you can connect absolutely any booster, treble booster, overdrive pedals like the Tube Screamer, or even a Fuzz Box to the input.
+
 
 
 
