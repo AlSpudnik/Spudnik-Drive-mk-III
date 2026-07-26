@@ -1,5 +1,4 @@
 ### Spudnik Drive Mark III "Fenderman"
-[![Learn more](https://img.shields.io/badge/Learn_more-orange.svg )](https://mrspudnik.blogspot.com/2020/09/spudnik-drive-mark-ii.html)
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/Tube-Preamp-Fenderman/main/photo/rev32.JPG" width="400">
 
