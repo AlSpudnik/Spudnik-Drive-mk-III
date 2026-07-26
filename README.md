@@ -46,13 +46,13 @@ V1, V2 - 6N2P
 <br />
 Two nine-pin tube sockets
 
-<b>Power Switch Toggle</b>
+<b>Power Socket</b>
 <br />
-SPST or another high voltage toggle.
+IEC320 AC-17
 
-<b>Transformer</b>
+<b>Power Transformer</b>
 <br />
-Power Transformer: 25W. Secondary winding = 206v AC, 10mA. Filament winding = 6.6v AC, 0.8A.
+6W minimal. Secondary winding = 206v AC, 10mA. Filament winding = 6.6...6.8v AC, 0.8A.
 
 <b>Filter Choke</b>
 <br />
