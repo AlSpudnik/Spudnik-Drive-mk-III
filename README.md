@@ -19,6 +19,8 @@ The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resist
 
 Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 680 volts). For C2, C3, C4, C9 I used Evox Rifa MMK Metal Film. For C5, C6, C10 used soviet KSO (КСО). For С7, C8 soviet K73. For C1, C7 Nichicon 50V BP.
 
+The power transformer must have a shielding layer between the mains winding and the anode winding. Or the heater winding—with a center tap connected to ground—should be wound between them.
+
 ### Parts List:
 <b>Resistors</b>
 
