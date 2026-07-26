@@ -12,7 +12,7 @@ Please note in the diagram, I did use soviet 6N2P (6Н2П) tubs instead 7025 (us
 If you plan to use the device as a preamplifier for a power amplifier and the amplitude of the preamplifier's output signal is insufficient for you, you can reduce the value of resistor R27 to 120k, or even to 10k. As a preamplifier for a tube power amplifier, the ouput signal can be taken from the anode of tube V2b. Capacitor C9 should be connected to the anode of tube V2b, and potentiometer R28 should be changed to 250...500k. In this case, capacitor C10 must be excluded from the circuit. With this connection, the output signal will have a higher impedance.
 
 <b>Components</b>
-
+Since I assembled the physical design in the same case as the previous version (the Spudnik Drive mk 2), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
 
 
 ### Parts List:
