@@ -32,9 +32,13 @@ The power transformer must have a shielding layer between the mains winding and 
 
 <b>Capacitors</b>
 <br />
+C1= 22µF 22V (electro)
+<br />
+C2 = 270pF 400V (film)
+<br />
 C1 = 200nF 63V (film or polarized electro)
 <br />
-C2 = 1nF 400V (film)
+
 
 <b>Diodes</b>
 <br />
