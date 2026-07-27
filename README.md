@@ -27,6 +27,10 @@ The power transformer must have a shielding layer between the mains winding and 
 
 <b>Potentiometers</b>
 <br />
+R6, R8 = A250k (logarithmic)
+<br />
+R10, R32 = B1M (linear duoble)
+<br />
 
 
 <b>Capacitors</b>
@@ -80,4 +84,5 @@ Power 6W minimal. Anode winding = 206v AC, 10mA. Filament winding = 6.6...6.8v A
 
 <b>Filter Choke</b>
 <br />
-Inductance = 0.17 Henry, 10mA.
+Inductance = 0.17 Henry
+Current = 10mA
