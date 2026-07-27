@@ -24,14 +24,21 @@ The power transformer must have a shielding layer between the mains winding and 
 
 ### Parts List:
 <b>Resistors</b>
+<br />
+R1 = 10k (0,25W)
+<br />
+
 
 <b>Potentiometers</b>
 <br />
 R6, R8 = A250k (logarithmic)
 <br />
-R10, R32 = B1M (linear duoble)
+R10, R32 = B1M (dual-gang linear)
 <br />
-
+R20 = B20k (linear)
+<br />
+R28 = A100k (logarithmic)
+<br />
 
 <b>Capacitors</b>
 <br />
