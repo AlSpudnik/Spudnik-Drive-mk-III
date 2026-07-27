@@ -91,6 +91,9 @@ C19 = 22µF 400V (Electrolitic)
 D1 - 1N4007 or another
 <br />
 D2, D3 - 3mm LED
+<br />
+Rectifier MB10F
+<br />
 
 <b>Tubes</b>
 <br />
