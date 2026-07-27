@@ -59,31 +59,31 @@ R28 = A100k (logarithmic)
 
 <b>Capacitors</b>
 <br />
-C1, C7 = 22µF 22V (electro)
+C1, C7 = 22µF 22V (Electrolitic)
 <br />
-C2, C11 = 270pF 400V (film or ceramic)
+C2, C11 = 270pF 400V (Metal Film)
 <br />
-C3, C10 = 100nF 400V (film)
+C3, C10 = 100nF 400V (Metal Film)
 <br />
-C4 = 47nF 400V (film)
+C4 = 47nF 400V (Metal Film)
 <br />
-C5 = 2.2nF 400V (film)
+C5 = 2.2nF 400V (Metal Film)
 <br />
-C6 = 1nF 400V (film)
+C6 = 1nF 400V (Metal Film)
 <br />
-C8 = 4.7nF 400V (film)
+C8 = 4.7nF 400V (Metal Film)
 <br />
-C9 = 100nF 250V (film)
+C9 = 100nF 250V (Metal Film)
 <br />
-C12 = 1.5nF 1000VAC (film)
+C12 = 1.5nF 1000VAC (Polypropylene Film)
 <br />
-C13 = 47nF 400V (film)
+C13 = 47nF 400V (General Purpose Film Metallized Polypropylene)
 <br />
-C14, C16, C18 = 47µF 400V (electro)
+C14, C16, C18 = 47µF 400V (Electrolitic)
 <br />
-C15, C17 = 33nF 400V (film)
+C15, C17 = 33nF 400V (General Purpose Film Metallized Polypropylene)
 <br />
-C19 = 22µF 400V (electro)
+C19 = 22µF 400V (Electrolitic)
 <br />
 
 <b>Diodes</b>
