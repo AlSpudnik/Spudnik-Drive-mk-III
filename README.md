@@ -97,10 +97,14 @@ D2, D3 - 3mm LED
 V1, V2 - 6N2P
 <br />
 Two nine-pin tube sockets
-
-<b>Power Socket</b>
 <br />
-IEC320 AC-17
+
+<b>Sockets</b>
+<br />
+Two jack sockets 6.35mm female with switch
+<br />
+Power socket IEC320 AC-17
+<br />
 
 <b>Power Transformer</b>
 <br />
