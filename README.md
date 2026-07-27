@@ -25,7 +25,15 @@ The power transformer must have a shielding layer between the mains winding and 
 ### Parts List:
 <b>Resistors</b>
 <br />
-R1 = 10k (0,25W)
+R1, R16, R22 = 1M (0,25W)
+<br />
+R2 = 30k (0,25W)
+<br />
+R3, R12, R24 = 100k (0,5W)
+<br />
+R4 = 1.5k (0,5W)
+<br />
+R4 = 1.5k (0,5W)
 <br />
 
 
