@@ -6,12 +6,12 @@ Fenderman this is a third version tube guitar preamplifier from the Spudnik Driv
 
 You can connect a guitar directly to the input of this preamplifier, as well as a processed signal - for example, a tube reverb with a classic 6G15 circuit, or its JFET clone. To add variety to overdriven amp, you can connect absolutely any booster, treble booster, overdrive pedals like the Tube Screamer, DOD 250, or even a fuzz box to the input. By manipulating the TREBLE, BASS, GAIN, PRESENCE knobs, you can achieve an endless variety of overdrive.
 
-Please note in the diagram, I did use soviet 6N2P (6Н2П) tubs instead 7025 (used in Showman 6G14). You can use any analogs, such as ECC83, 5751, or 12AX7 (take note pinout!). In this circuit, 6N2P tubes operate at a lower anode voltage. This, too, is up to you to decide how close to the original Showman voltage you want it to be.
-
 If you plan to use the device as a preamplifier for a power amplifier and the amplitude of the preamplifier's output signal is insufficient for you, you can reduce the value of resistor R27 to 120k, or even to 10k. As a preamplifier for a tube power amplifier, the ouput signal can be taken from the anode of tube V2b. Capacitor C9 should be connected to the anode of tube V2b, and potentiometer R28 should be changed to 250...500k. In this case, capacitor C10 must be excluded from the circuit. With this connection, the output signal will have a higher impedance.
 
 <b>Design and components:</b>
 <br />
+Please note in the diagram, I did use soviet 6N2P (6Н2П) tubs instead 7025 (used in Showman 6G14). You can use any analogs, such as ECC83, 5751, or 12AX7 (take note pinout!). In this circuit, 6N2P tubes operate at a lower anode voltage. This, too, is up to you to decide how close to the original Showman voltage you want it to be.
+
 Since I assembled the physical design in the same case as the previous version (<a href="https://mrspudnik.blogspot.com/2020/09/spudnik-drive-mark-ii.html" target="_blank" >Spudnik Drive mk II</a>), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
 
 The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
