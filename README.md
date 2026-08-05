@@ -12,6 +12,8 @@ If you plan to use the device as a preamplifier for a power amplifier and the am
 <br />
 Please note in the diagram, I did use soviet 6N2P (6Н2П). You can use any analogs, such as ECC83, 7025, 5751, or 12AX7 (take note pinout!). In this circuit, 6N2P tubes operate at a lower anode voltage. This, too, is up to you to decide how close to the original Showman voltage you want it to be.
 
+The ratings of resistors R12, R14 which are indicated in parentheses, are an imitation version of the Bassman 6G6-B.
+
 Since I assembled the physical design in the same case as the previous version (<a href="https://mrspudnik.blogspot.com/2020/09/spudnik-drive-mark-ii.html" target="_blank" >Spudnik Drive mk II</a>), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
 
 The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
