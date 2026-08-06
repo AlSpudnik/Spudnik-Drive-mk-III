@@ -16,7 +16,7 @@ The ratings of resistors R12, R14 which are indicated in parentheses, are an imi
 
 Since I assembled the physical design in the same case as the previous version (<a href="https://mrspudnik.blogspot.com/2020/09/spudnik-drive-mark-ii.html" target="_blank" >Spudnik Drive mk II</a>), the BASS and PRESENCE potentiometers are designed as trimmers. But the layout is standard on the front panel.
 
-The main part of the applied MLT (МЛТ) resistors is metal film. Carbon resistors of the VS (BC) series are used as R12, R17.
+All used metal film resistors.
 
 Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 630 volts). For C2, C3, C4, C10 I used Evox Rifa MMK Metal Film. For C5, C6, C11 used soviet KSO (КСО). For С8, C9 soviet K73. For C1, C7 Nichicon 50V BP.
 
