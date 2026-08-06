@@ -113,7 +113,7 @@ Power socket IEC320 AC-17
 
 <b>Power Transformer</b>
 <br />
-Power 12W minimal. Anode winding = 200...210v AC, 10mA. Filament winding = 6.6v AC, 0.8A.
+Power 15...20W. Anode winding = 200...210v AC, 10mA minimal. Filament winding = 6.6v AC, 0.8A.
 
 <b>Filter Choke</b>
 <br />
