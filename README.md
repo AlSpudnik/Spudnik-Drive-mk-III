@@ -77,7 +77,7 @@ C8 = 4.7nF 400V (Metal Film)
 <br />
 C9 = 100nF 250V (Metal Film)
 <br />
-C12 = 1.5nF 1000VAC (Polypropylene Film)
+C12 = 1.5nF 630VAC (Polypropylene Film)
 <br />
 C13 = 47nF 400V (General Purpose Film Metallized Polypropylene)
 <br />
