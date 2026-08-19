@@ -47,14 +47,14 @@ R14 = 820 Ohm (0,5W)
 <br />
 R15 = 120k (0,25W)
 <br />
+R16 = 560k (0,25W)
+<br />
 
 <b>Potentiometers</b>
 <br />
 R6, R8 = A250k (logarithmic)
 <br />
-R10, R32 = B1M (dual-gang linear)
-<br />
-R20 = B20k (linear)
+R10, R20 = B1M (dual-gang linear)
 <br />
 R28 = A100k (logarithmic)
 <br />
