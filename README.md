@@ -35,6 +35,8 @@ R4 = 1.5k (0,5W)
 <br />
 R5, R9 = 100k (0,25W)
 <br />
+R6 = 22k (0,25W)
+<br />
 R7 = 6.8k (0,25W)
 <br />
 R11, R21 = 15k (0,25W)
@@ -50,7 +52,7 @@ R16 = 560k (0,25W)
 
 <b>Potentiometers</b>
 <br />
-R6, R8 = A250k (logarithmic)
+R8 = A250k (logarithmic)
 <br />
 R10, R20 = B1M (dual-gang linear)
 <br />
