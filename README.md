@@ -16,7 +16,7 @@ The ratings of resistors R12, R14 which are indicated in parentheses, are an imi
 
 All used metal film resistors.
 
-Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 630 volts). For C2, C11 I used Evox Rifa PFR5 MKP. For C3, C4, C10 - Evox Rifa MMK Metal Film. For C5, C6 used soviet KSO (КСО). For С8, C9 soviet K73. For C1, C7 Nichicon 50V BP.
+Between stages, use high-quality film capacitors with a rated voltage of at least 400 volts (with an increase in anode voltage to the Fender level, capacitors are 630 volts). For C2, C11 I used Evox Rifa PFR5 MKP. For C3, C4, C10 - Evox Rifa MMK Metal Film. For C5, C6 used soviet KSO (КСО). For С8, C9 soviet K73. For C1, C7 Nichicon 22µF 25V.
 
 As can be seen in the diagram, the lamp preheating is turned on immediately when the device is connected to the network, and the switch of the IEC320 AC-17 socket is connected as Standby.
 
