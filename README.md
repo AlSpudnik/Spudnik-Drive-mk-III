@@ -25,7 +25,7 @@ The power transformer must have a shielding layer between the mains winding and 
 ### Parts List:
 <b>Resistors</b>
 <br />
-R1, R16, R22 = 1M (0,25W)
+R1, R22 = 1M (0,25W)
 <br />
 R2 = 30k (0,25W)
 <br />
@@ -49,6 +49,25 @@ R15 = 120k (0,25W)
 <br />
 R16 = 560k (0,25W)
 <br />
+R17 = 82k (0,5W)
+<br />
+R18 = 12k (0,5W)
+<br />
+R19 = 1.5k (0,25W)
+<br />
+R23 = 10k (0,25W)
+<br />
+R25 = 1k (0,5W)
+<br />
+R26 = 15k (0,5W)
+<br />
+R27 = 56-330k (0,25W)
+<br />
+R29 = 4.7k (1W)
+<br />
+R30 = 8.2k (1W)
+<br />
+
 
 <b>Potentiometers</b>
 <br />
@@ -75,7 +94,7 @@ C6 = 1nF 400V (Metal Film)
 <br />
 C8 = 4.7nF 400V (Metal Film)
 <br />
-C9 = 100nF 250V (Metal Film)
+C9 = 150pF 400V (Metal Film or Ceramic)
 <br />
 C12 = 1.5nF 630VAC (Polypropylene Film)
 <br />
