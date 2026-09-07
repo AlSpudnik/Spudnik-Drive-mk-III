@@ -10,7 +10,7 @@ If you plan to use the device as a preamplifier for a power amplifier and the am
 
 <b>Design and components:</b>
 <br />
-Please note in the diagram, I did use soviet 6N2P (6Н2П). You can use any analogs, such as ECC83, 7025, 5751, or 12AX7 (take note pinout!). In this circuit, 6N2P tubes operate at a lower anode voltage. This, too, is up to you to decide how close to the original Showman voltage you want it to be.
+Please note in the diagram, I did use soviet 6N2P (6Н2П). You can use any analogs, such as ECC83, 7025, 5751, or 12AX7 (take note pinout!). In this circuit, 6N2P tubes operate at a lower anode voltage. This, too, is up to you to decide how close to the original Showman or Bassman voltage you want it to be.
 
 The ratings of resistors R12, R14 which are indicated in parentheses, are an imitation version of the Bassman 6G6-B.
 
