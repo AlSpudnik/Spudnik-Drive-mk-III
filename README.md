@@ -80,7 +80,7 @@ R28 = A100k (logarithmic)
 
 <b>Capacitors</b>
 <br />
-C1, C7 = 22µF 22V (Electrolitic)
+C1, C7 = 22µF 25V (Electrolitic)
 <br />
 C2, C11 = 270pF 400V (Metal Film)
 <br />
