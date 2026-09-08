@@ -130,6 +130,12 @@ Two jack sockets 6.35mm female with switch
 Power socket IEC320 AC-17
 <br />
 
+<b>Switches</b>
+<br />
+Switch 1 - IEC320 AC-17 Rocker Switch Power Socket with LED 
+<br />
+Switch 2 - Mini Toggle Switch SPDT on-off
+
 <b>Power Transformer</b>
 <br />
 Power 15...20W. Anode winding = 200...210v AC, 10mA minimal. Filament winding = 6.6v AC, 0.8A.
