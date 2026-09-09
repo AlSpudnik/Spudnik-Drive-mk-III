@@ -1,7 +1,5 @@
 ### Spudnik Drive Mark III
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Tube-Preamp-Fenderman/main/photo/rev32.JPG" width="400">
-
 This is a third version tube guitar preamplifier from the Spudnik Drive series. Its design is based on the classic american amplifier. The design is positioned as a preamplifier for studio recordings and connection to a speaker simulator or power amplifier.
 
 You can connect a guitar directly to the input of this preamplifier, as well as a processed signal - for example, a tube reverb with a classic 6G15 circuit, or its FET copies. To add variety to overdriven amp, you can connect absolutely any booster, treble booster, overdrive pedals like the Tube Screamer, DOD 250, or even a fuzz box to the input. By manipulating the TONE, BRIGHT, GAIN knobs, you can achieve an endless variety of overdrive.
