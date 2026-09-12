@@ -6,6 +6,8 @@ You can connect a guitar directly to the input of this preamplifier, as well as 
 
 If you plan to use the device as a preamplifier for a power amplifier and the amplitude of the preamplifier's output signal is insufficient for you, you can reduce the value of resistor R27 to 120k, or even to 56k. As a preamplifier for a tube power amplifier, the ouput signal can be taken from the anode of tube V2b. Capacitor C10 should be connected to the anode of tube V2b, and potentiometer R28 should be changed to 250...500k. In this case, capacitor C11 must be excluded from the circuit. With this connection, the output signal will have a higher impedance.
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/Spudnik-Drive-mk-III/main/schem_sd_mk3.svg" width="400" alt="Spudnik Drive Mark 3">
+
 <b>Design and components:</b>
 <br />
 Please note in the diagram, I did use soviet 6N2P (6Н2П). You can use any analogs, such as ECC83, 7025, 5751, or 12AX7 (take note pinout!). In this circuit, 6N2P tubes operate at a lower anode voltage. This, too, is up to you to decide how close to the original Showman or Bassman voltage you want it to be.
