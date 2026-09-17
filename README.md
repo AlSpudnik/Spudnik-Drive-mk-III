@@ -6,7 +6,7 @@ You can connect a guitar directly to the input of this preamplifier, as well as 
 
 If you plan to use the device as a preamplifier for a power amplifier and the amplitude of the preamplifier's output signal is insufficient for you, you can reduce the value of resistor R27 to 120k, or even to 56k. As a preamplifier for a tube power amplifier, the ouput signal can be taken from the anode of tube V2b. Capacitor C10 should be connected to the anode of tube V2b, and potentiometer R28 should be changed to 250...500k. In this case, capacitor C11 must be excluded from the circuit. With this connection, the output signal will have a higher impedance.
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/Spudnik-Drive-mk-III/main/schem_sd_mk3.svg" width="850" alt="Spudnik Drive Mark 3">
+<img src="https://raw.githubusercontent.com/AlSpudnik/Spudnik-Drive-mk-III/main/schem_sd_mk3.svg" width="800" alt="Spudnik Drive Mark 3">
 
 <b>Design and components:</b>
 <br />
