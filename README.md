@@ -47,7 +47,7 @@ R14 = 820 Ohm (0,5W)
 <br />
 R15 = 120k (0,25W)
 <br />
-R16 = 560k (0,25W)
+R16 = 470k (0,5W)
 <br />
 R17 = 82k (0,5W)
 <br />
@@ -90,7 +90,7 @@ C4 = 47nF 400V (Metal Film)
 <br />
 C5 = 2.2nF 400V (Metal Film)
 <br />
-C6 = 1nF 400V (Metal Film)
+C6 = 2.2nF 400V (Metal Film)
 <br />
 C8 = 4.7nF 400V (Metal Film)
 <br />
