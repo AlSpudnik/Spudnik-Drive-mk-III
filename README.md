@@ -89,9 +89,7 @@ C3, C10 = 100nF 400V (Metal Film)
 <br />
 C4 = 47nF 400V (Metal Film)
 <br />
-C5 = 2.2nF 400V (Metal Film)
-<br />
-C6 = 2.2nF 400V (Metal Film)
+C5, С6 = 2.2nF 400V (Metal Film)
 <br />
 C8 = 4.7nF 400V (Metal Film)
 <br />
