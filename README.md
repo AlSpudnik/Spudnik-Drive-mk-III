@@ -143,3 +143,5 @@ Power 15...20W. Anode winding = 200...210v AC, 10mA minimal. Filament winding = 
 <br />
 Inductance = 0.17 Henry
 Current = 10mA
+
+[![mrspudnik.blogspot.com](https://img.shields.io/badge/Ctrl_+_click-mrspudnik.blogspot.com-white.svg )](https://mrspudnik.blogspot.com/2026/09/spudnik-drive-mark-iii-guitar-preamp.html)
