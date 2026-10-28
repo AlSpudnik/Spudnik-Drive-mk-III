@@ -91,7 +91,7 @@ C4 = 47nF 400V (Metal Film)
 <br />
 C5, С6 = 2.2nF 400V (Metal Film)
 <br />
-C8 = 4.7nF 400V (Metal Film)
+C8 = 10nF 400V (Metal Film)
 <br />
 C9 = 150pF 400V (Metal Film or Ceramic)
 <br />
